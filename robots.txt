@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-25k5kn.gitart.me/sitemap.xml
